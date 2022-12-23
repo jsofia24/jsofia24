@@ -9,9 +9,9 @@
 ---
 ### ✨About Me✨
 
-- 🔭 I’m currently learning more about **Python, relational and nonrelational databases**
-- 👯 I’m looking to collaborate on **the creation and deployment of new tech projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
+- 🔭 I’m currently learning more about **Python and Angular**
+- 👯 I’m looking to collaborate on **creative and intuitive Frontend Development**
+- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React**
 - 📫 How to reach me: **jennysofia.cc@gmail.com or [LinkedIn](https://www.linkedin.com/in/jennysofia-cc/)**
 - ⚡ Fun fact: **I love traveling. To see my adventures follow me on [Instagram](https://www.instagram.com/sofiacasta24/)**
 
@@ -29,11 +29,13 @@
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BST"
     width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="ANGULAR" alt="ANG"
+    width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="PYTHON" alt="PT"
+    width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="MYSQL" alt="MSQL"
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MONGODB" alt="MDB"
-    width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="PYTHON" alt="PT"
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" title="NODEJS" alt="NJS"
     width="40" height="40"/>&nbsp;
