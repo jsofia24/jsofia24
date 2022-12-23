@@ -12,8 +12,8 @@
 - 🔭 I’m currently learning more about **Python, relational and nonrelational databases**
 - 👯 I’m looking to collaborate on **the creation and deployment of new tech projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
-- 📫 How to reach me: **jennysofia.cc@gmail.com**
-- ⚡ Fun fact: **I love traveling. To see my adventures follow me on Instagram -> @sofiacasta24**
+- 📫 How to reach me: **jennysofia.cc@gmail.com or [LinkedIn](https://www.linkedin.com/in/jennysofia-cc/)**
+- ⚡ Fun fact: **I love traveling. To see my adventures follow me on [Instagram](https://www.instagram.com/sofiacasta24/)**
 
 ---
 <div align="left">
