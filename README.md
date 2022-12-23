@@ -29,7 +29,7 @@
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BST"
     width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain-wordmark.svg" title="ANGULAR" alt="ANG"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="ANGULAR" alt="ANG"
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="PYTHON" alt="PT"
     width="40" height="40"/>&nbsp;
