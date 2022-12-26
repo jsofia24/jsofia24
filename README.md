@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
   <h1 align="center"> Hi there 👋</h1>
   <h3 align="center"> Welcome to my GitHub Profile ⚡</h3>
-  <h4 align="center"> I'm a passionate software developer from Colombia. I just finished my training program in programming skills
+  <h4 align="center"> I'm a passionate software developer and geologist from Colombia. I just finished my training program in programming skills
   (800 hours), and I found myself very interested and talented in frontend development, especially Bootstrap 😄</h4> 
  </div>
 
