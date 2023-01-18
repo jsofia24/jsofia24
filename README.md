@@ -9,7 +9,7 @@
 ---
 ### ✨About Me✨
 
-- 🔭 I’m currently learning more about **Python and Angular**
+- 🔭 I’m currently learning more about **React and Python**
 - 👯 I’m looking to collaborate on **creative and intuitive Frontend Development**
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, React**
 - 📫 How to reach me: **jennysofia.cc@gmail.com or [LinkedIn](https://www.linkedin.com/in/jennysofia-cc/)**
